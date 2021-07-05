@@ -15,7 +15,7 @@
 </a>
 
 ## Resume:
-<a href="#">
+<a href="https://drive.google.com/file/d/1BCi_KfA67dRpUsramPmrrXo1Kgj1k3WQ/view?usp=sharing">
 <img src="https://img.icons8.com/fluent/48/000000/open-resume.png"/>
 	My Resume
 </a>
