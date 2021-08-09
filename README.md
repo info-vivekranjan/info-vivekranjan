@@ -1,4 +1,4 @@
-<h2> Hi 👋, I'm Vivek Ranjan</h1>
+<h1> Hey 👋, I'm Vivek Ranjan</h1>
 <br/>
 
 <img height="200" src="https://media4.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif?cid=ecf05e4782r2zl425kopy1t9rwkeimdzwk11vyvkan5nu68z&rid=giphy.gif&ct=g">
