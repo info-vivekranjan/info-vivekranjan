@@ -1,7 +1,7 @@
 <h1> Hey 👋, I'm Vivek Ranjan</h1>
 <br/>
 
-<img height="200" src="https://media4.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif?cid=ecf05e4782r2zl425kopy1t9rwkeimdzwk11vyvkan5nu68z&rid=giphy.gif&ct=g">
+<img height="200" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470j1825z48ffrfirvxsufee20w10kljgva048255q&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning  MERN stack.
 - 👯 I’m looking to collaborate on Javascript, ReactJS projects.
