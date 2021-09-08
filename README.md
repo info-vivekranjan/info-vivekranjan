@@ -1,5 +1,5 @@
 
-<img height="auto" src="https://coindsyz.com/wp-content/uploads/2021/05/1584023795.gif" width="90%">
+<img height="auto" src="https://coindsyz.com/wp-content/uploads/2021/05/1584023795.gif" width="100%">
 
 <br/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Ranjan</h1>
