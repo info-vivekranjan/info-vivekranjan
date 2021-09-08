@@ -1,7 +1,20 @@
-<h1> Hey 👋, I'm Vivek Ranjan</h1>
-<br/>
 
-<img height="200" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470j1825z48ffrfirvxsufee20w10kljgva048255q&rid=giphy.gif&ct=g">
+<img height="auto" src="https://coindsyz.com/wp-content/uploads/2021/05/1584023795.gif" width="90%">
+
+<br/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Ranjan</h1>
+<h3 align="center">I'm a passionate Full Stack Developer. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
+<br/>
+<p align= "center">
+
+<img src="https://img.shields.io/badge/JS-Javascript-red"/>
+<img src="https://img.shields.io/badge/React-React-blue"/>
+<img src="https://img.shields.io/badge/Node-node-green"/>
+<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
+<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
+</p>
+
+## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning  MERN stack.
 - 👯 I’m looking to collaborate on Javascript, ReactJS projects.
@@ -15,7 +28,7 @@
 </a>
 
 ## Resume:
-<a href="https://drive.google.com/drive/folders/1SyOOInm9hgUwegKs0irXPk8NEHRoSj7X?usp=sharing">
+<a href="https://drive.google.com/file/d/1Q3BONfXJs2EOSMQ2Z2i6H8b3kdfk1XB3/view?usp=sharing">
 <img src="https://img.icons8.com/fluency/55/000000/resume.png"/>
 	My Resume
 </a>
