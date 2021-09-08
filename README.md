@@ -3,7 +3,8 @@
 
 <br/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Ranjan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
+<h3 align="center">I'm a passionate, dedicated and accountable Full Stack Web Developer, Skilled in MERN stack. Actively seeking the opportunity to work with interdisciplinary teams and contribute to developing useful products within a company.
+</h3>
 <br/>
 <p align= "center">
 
