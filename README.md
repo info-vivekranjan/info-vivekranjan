@@ -47,7 +47,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
-<img align="left" alt="Material Ui" width="26px" src="https://material-ui.com/static/logo_raw.svg" />
+<img align="left" alt="Material Ui" width="26px" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" />
 <img align="left" alt="NodeJS" width="26px" src="https://nodejs.org/static/images/logo.svg" />
 <img align="left" alt="MongoDb" width="26px" src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg?fm=jpg&w=1200&q=80&fit=fill" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
