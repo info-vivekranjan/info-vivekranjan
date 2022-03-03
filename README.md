@@ -29,7 +29,7 @@
 </a>
 
 ## Resume:
-<a href="https://drive.google.com/file/d/1tIyr0FcaQ4fEPRMo-_aA3AsqyZv22mO0/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1gyhRBsEQjVxvsiK1iNC8EaCVv7KLaYXX/view?usp=sharing">
 <img src="https://img.icons8.com/fluency/55/000000/resume.png"/>
 	My Resume
 </a>
