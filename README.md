@@ -2,7 +2,7 @@
 <img height="auto" src="https://github.com/info-vivekranjan/NextJs-Crud/blob/master/public/web.gif" width="100%">
 
 <br/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Ranjan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Vivek Ranjan</h1>
 <h3 align="center">I'm a passionate, dedicated and accountable Full Stack Web Developer, Skilled in MERN stack. Actively seeking the opportunity to work with interdisciplinary teams and contribute to developing useful products within a company.
 </h3>
 <br/>
